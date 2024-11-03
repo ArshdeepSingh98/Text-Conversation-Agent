@@ -1,4 +1,4 @@
-# PDF Reader AI with LangChain, Ollama, FastAPI Backend and ReactJS Frontend 
+# PDF Conversation Agent with LangChain, Ollama, FastAPI Backend and ReactJS Frontend 
 
 This project is a chatbot application that interacts with PDF documents using LangChain and Ollama for local natural language processing capabilities. It also features a frontend built using ReactJS for a user-friendly interface.
 
@@ -22,7 +22,7 @@ This project is a chatbot application that interacts with PDF documents using La
 2. **Navigate to Project Directory**: Enter the project directory:
 
    ```bash
-   cd pdf_reader_ai
+   cd Text_Conver/Text-Conversation-Agent
    ```
 
 3. **Set Up Ollama Server**: Download [Ollama](https://ollama.com/download) and make sure its running in background. You also need to download the LLM model Llama
