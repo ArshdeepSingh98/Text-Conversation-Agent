@@ -16,13 +16,13 @@ This project is a chatbot application that interacts with PDF documents using La
 1. **Clone the Repository**: Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/hssahdev/pdf_reader_ai
+   git clone https://github.com/ArshdeepSingh98/Text-Conversation-Agent.git
    ```
 
 2. **Navigate to Project Directory**: Enter the project directory:
 
    ```bash
-   cd Text_Conver/Text-Conversation-Agent
+   cd Text-Conversation-Agent
    ```
 
 3. **Set Up Ollama Server**: Download [Ollama](https://ollama.com/download) and make sure its running in background. You also need to download the LLM model Llama
